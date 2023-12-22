@@ -1,0 +1,36 @@
+.navbar {
+    background: lightskyblue;
+}
+#sidebar {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 1000px;
+    background-color: lightblue;
+    width: 24%;
+    float: left;
+}
+body {
+    background: lightcyan;
+}
+.main-content {
+    float: right;
+    width: 75%;
+}
+.img-fluid {
+    width: 10%;
+    height: 30;
+}
+nav .img-fluid {
+    width: 30%;
+    height: 30;
+}
+thead {
+    background: aqua;
+}
+table {
+    margin-top: 10px;
+}
+.breadcrumb{
+    margin-top: 5px;
+}

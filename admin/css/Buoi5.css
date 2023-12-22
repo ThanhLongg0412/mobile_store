@@ -1,0 +1,46 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+header h5{
+    text-transform: capitalize;
+}
+#student, #class, #library, footer{
+    padding: 50px 0;
+}
+h2{
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.bg-black{
+    background: #000000;
+}
+.content{
+    background: #FFFFFF;
+    padding: 18px;
+}
+.content p{
+    text-align: justify;
+    margin-top: 55px;
+}
+#library p{
+    text-align: justify;
+    border-top: 1px solid #666;
+    margin-top: 25px;
+    padding-top: 30px;
+}
+ul{
+    padding-left: 0;
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: #666;
+}
+footer p{
+    margin-top: 60px;
+    padding-top: 50px;
+    border-top: 1px solid #666;
+}
